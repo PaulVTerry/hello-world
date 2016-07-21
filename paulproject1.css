@@ -1,0 +1,44 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    background-color: #808000;
+    color: white;
+    border-radius: 20px;
+}
+body {
+    background-color: black;
+    font-family: arial
+}
+.lesson {
+    background-color: #b3b300;
+    border-radius: 20px;
+    padding: 10px;
+}
+h2 {
+    margin: 10px;
+    text-align: center;
+}
+.concept {
+    background-color: #ffff66;
+    border-radius: 10px
+}
+.concept-title {
+    font-size: 20px;
+    margin: 8px;
+}
+.concept-description {
+    font-weight: lighter;
+    margin: 6px;
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
